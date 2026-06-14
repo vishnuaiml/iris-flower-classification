@@ -1,0 +1,6 @@
+{
+  "name": "Iris Flower Classification",
+  "description": "An interactive machine learning dashboard for the Iris Flower dataset, demonstrating exploratory data analysis (EDA), model training, evaluation, and predictive modelling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
